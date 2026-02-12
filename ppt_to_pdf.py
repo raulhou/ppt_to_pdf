@@ -87,4 +87,5 @@ if __name__ == "__main__":
     destination_folder = None 
     
     print(f"Scanning for PPT files in: {target_folder}")
+
     convert_ppt_to_pdf(target_folder, destination_folder)
