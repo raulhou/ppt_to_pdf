@@ -3,4 +3,4 @@ A simple python script that uses Microsoft PowerPoint to transform all the PPT f
 
 #Usage
 
-Python transform.py
+Python ppt_to_pdf.py
